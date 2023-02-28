@@ -193,7 +193,7 @@ header nav ul li a:hover{
 }
 
 .containerComments .flex .aspas{
-    background-image: url(/img/bg-quotes.png);
+    background-image: url(img/bg-quotes.png);
     background-repeat: no-repeat;
     background-position: top left;
     padding: 35px 15px;
