@@ -22,7 +22,7 @@ Este é um projeto que eu fiz para colocar em pratica as minhas habilidades, peg
 <br><br>
 
 ## Link para acessar o site
-[🔗 Clique aqui](https://jonaswgdev.github.io/faculdade-Unes/)
+[🔗 Clique aqui](https://jonaswgdev.github.io/LandingPage/)
 <br><br>
 
 ## ✉ Contato
